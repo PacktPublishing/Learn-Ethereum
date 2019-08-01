@@ -1,0 +1,39 @@
+strict digraph {
+  constructor [color=brown]
+  transferOwnership
+  isAdmin [color=yellow]
+  addAdmin
+  removeAdmin
+  addWhitelist
+  isWhitelist [color=yellow]
+  removeWhitelisted
+  pause
+  PausedEvt
+  unpause
+  UnpausedEvt
+  transfer
+  approve
+  transferFrom
+  totalSupply [color=yellow]
+  balanceOf [color=yellow]
+  allowance [color=yellow]
+  validateTransferRestricted [color=yellow]
+  messageHandler [color=green]
+  Transfer
+  Approval
+  burn
+  Burn
+  mint
+  fallback [color=brown]
+  revert
+  pause -> PausedEvt
+  unpause -> UnpausedEvt
+  constructor -> addWhitelist
+  transfer -> Transfer
+  transferFrom -> Transfer
+  approve -> Approval
+  burn -> Burn
+  mint -> Transfer
+  fallback -> revert
+}
+
