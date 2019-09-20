@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.navbar {
+  min-height: 80px;
+  margin-top: -20px;
+}
+.navbar-brand {
+  color: white;
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.img-fluid {
+  height: 15rem !important;
+  width: 100% !important;
+}
+.form-inline {
+  margin-top: 17px !important;
+}
+.imgBox {
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+  border: 1px solid #3F729B;
+  margin-top: 10px;
+}
