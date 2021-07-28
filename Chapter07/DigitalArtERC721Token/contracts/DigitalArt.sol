@@ -308,13 +308,4 @@ contract DigitalArt is ERC721 {
     function isApproved(address _to, uint256 _tokenId) private view returns (bool) {
         return _tokenApprovals[_tokenId] == _to;
     }
-        
-    
-    
-    
-    
-    
-    
-    
-    
 }
