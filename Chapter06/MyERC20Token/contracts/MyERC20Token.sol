@@ -33,8 +33,8 @@ contract owned {
         admins[account] = true;    
     }
     function removeAdmin(address account) onlyOwner public {
-        require(account != address(0) && !admins[account]);
-        admins[account] = true;    
+        require(account != address(0) && admins[account]);
+        admins[account] = false;    
     }
 }
 /**
