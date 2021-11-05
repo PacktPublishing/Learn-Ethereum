@@ -109,7 +109,6 @@ contract LeaseContract {
     function moveIn() public
     onlyTenant 
     inState(LeaseState.Signed)
-    onlyTenant
     {
         lease.moveinTimestamp = block.timestamp;
         state = LeaseState.Occupied;
