@@ -63,6 +63,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Dongying Song** has more than four years of extensive hands-on experience in blockchain, Ethereum, big data, machine learning, and data science. As an experienced software engineer and data scientist, she has worked for a top-tier bank and pharmaceutical companies. Dongying holds a master's degree in statistics from Columbia University and majored in mathematics during her undergraduate years. Her recent activities have focused on blockchain, Ethereum, and smart contract developments.
 
+## Errata
+
+- Chapters 1 and 2 have incorrect URLs to the GitHub repo, please refer to the Preface/other chapters for the correct one.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
