@@ -66,6 +66,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Errata
 
 - Chapters 1 and 2 Technical Requirements Sections have incorrect URLs to the GitHub repo, please refer to the Preface/other chapters for the correct one.
+- Chapter 1, Decentralized P2P section, last line: Now that we understand the **difference** between centralized and decentralized models, let's **see** how blockchain works.
+
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
